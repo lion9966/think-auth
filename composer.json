@@ -1,0 +1,21 @@
+{
+    "name": "lion9966/think-auth",
+    "description": "thinkPHP 6 权限的登录、用户、权限、菜单的创建修改等",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "lion9966\\auth\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "lion9966",
+            "email": "lion9966@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
